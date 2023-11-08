@@ -1,6 +1,6 @@
 ﻿l_german:
- dp_char_interactions.main.event.t:0 "Currency Menu"
- dp_char_interactions.main.event.d:0 "Menu for adding or removing gold, prestige, piety, renown, stress, tyranny for any selected character."
+ dp_char_interactions.main.event.t:0 "Währungsmenü"
+ dp_char_interactions.main.event.d:0 "Menü zum Hinzufügen oder Entfernen von Gold, Prestige, Frömmigkeit, Ansehen, Stress, Tyrannei für einen ausgewählten Charakter."
  
  dp_char_interactions.gold.event.t:1 "@gold_icon! $GOLD_CONCEPT$"
  dp_char_interactions.gold.event.d:0 "$interact_desc$"
@@ -11,19 +11,19 @@
  dp_char_interactions.renown.event.t:1 "@dynasty_prestige_icon! $DYNASTY_PRESTIGE_CONCEPT$"
  dp_char_interactions.renown.event.d:0 " $interact_desc$"
  dp_char_interactions.stress.event.t:1 "@stress_icon! [stress|E]"
- dp_char_interactions.stress.event.d:0 "$interact_desc$\n NOTE: Stress gain depends on your character's stress gain modifier. The number's shown are at default."
+ dp_char_interactions.stress.event.d:0 "$interact_desc$\n HINWEIS: Die Stresszunahme hängt von Ihrem Charakter's Stresszunahme-Modifikator ab. Die angezeigten Zahlen sind standardmäßig."
  dp_char_interactions.tyranny.event.t:1 "@tyranny_icon! [tyranny|E]"
  dp_char_interactions.tyranny.event.d:0 "$interact_desc$"
  dp_char_interactions.dread.event.t:1 "@dread_icon! [dread|E]"
  dp_char_interactions.dread.event.d:0 "$interact_desc$"
- dp_char_interactions.weight.event.t:1 "@weight_icon! #E Weight #!"
+ dp_char_interactions.weight.event.t:1 "@weight_icon! #E Gewicht #!"
  dp_char_interactions.weight.event.d:0 "$interact_desc$"
- interact_desc:0 "Add or remove a value from any character."
+ interact_desc:0 "Füge oder entferne einen Wert von jedem Charakter hinzu."
  
- dp_char_interactions.lockinplace:0 "Lock in place"
- no_stress_change:0 "Stress: Locked"
- no_tyranny_change:0 "Tyranny: Locked"
- no_dread_change:0 "Dread: Locked"
+ dp_char_interactions.lockinplace:0 "In Position sperren"
+ no_stress_change:0 "Stress: Gesperrt"
+ no_tyranny_change:0 "Tyrannei: Gesperrt"
+ no_dread_change:0 "Furcht: Gesperrt""
  
  dp_char_interactions.plus_10000:0 "#P 10,000 #!"
  dp_char_interactions.plus_1000:0 "#P 1,000 #!"
@@ -80,4 +80,4 @@
  dp_char_interactions.dynasty_prestige.minus_1000:0 "[dynasty_prestige_i] $dp_char_interactions.minus_1000$"
  dp_char_interactions.dynasty_prestige.minus_10000:0 "[dynasty_prestige_i] $dp_char_interactions.minus_10000$"
  
- dp_char_interactions.end:0 "Close Menu"
+ dp_char_interactions.end:0 "Menü schließen"
