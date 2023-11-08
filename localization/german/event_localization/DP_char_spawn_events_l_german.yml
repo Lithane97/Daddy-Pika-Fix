@@ -1,63 +1,63 @@
 ﻿l_german:
  
- char_spawner.t:1 "Character Spawn Menu"
- char_spawner.d:0 "Spawn any character you need. At the top, you can select how many you want."
+ char_spawner.t:1 "Charakter-Spawn-Menü"
+ char_spawner.d:0 "Spawnen Sie jeden benötigten Charakter. Oben können Sie auswählen, wie viele Sie möchten."
+
+ char_spawner.numb.t:1 "Anzahl der Charaktere"
+ char_spawner.numb.d:0 "Wählen Sie die Anzahl der Charaktere aus, die Sie spawnen möchten. Gilt für alles im Menü, außer für Räte."
  
- char_spawner.numb.t:1 "Num. of Characters"
- char_spawner.numb.d:0 "Select the number of characters you would like to spawn in. Applies to everything in the menu, except councillors."
- 
- char_spawner.councillors.t:1 "Spawn Councillors"
- char_spawner.councillors.d:0 "These councillors will spawn in it's corresponding position."
- 
- char_spawner.heirs.t:1 "Spawn Children"
- char_spawner.heirs.d:0 "There are three different types of heirs you can create with this menu. Extraordinary; Average, and Pathetic. You can also pick the gender and the age of the child."
- 
- char_spawner.courtiers.t:1 "Spawn Courtiers"
- char_spawner.courtiers.d:0 "Add new people to your court."
- 
+ char_spawner.councillors.t:1 "Räte spawnen"
+ char_spawner.councillors.d:0 "Diese Räte werden an ihrer entsprechenden Position spawnen."
+
+ char_spawner.heirs.t:1 "Kinder spawnen"
+ char_spawner.heirs.d:0 "Es gibt drei verschiedene Arten von Erben, die Sie mit diesem Menü erstellen können: Außergewöhnlich, Durchschnittlich und Minderwertig. Sie können auch das Geschlecht und das Alter des Kindes auswählen."
+
+ char_spawner.courtiers.t:1 "Hofleute spawnen"
+ char_spawner.courtiers.d:0 "Fügen Sie neue Personen zu Ihrem Hof hinzu."
+
  char_spawner.numb1:0 "1"
  char_spawner.numb2:0 "2"
  char_spawner.numb5:0 "5"
  char_spawner.numb10:0 "10"
- 
- char_spawner.add_immortal:0 "Immortality: On"
- char_spawner.remove_immortal:0 "Immortality: Off"
- char_spawner.add_100_stat_man:0 "100 Stat Man: On"
- char_spawner.remove_100_stat_man:0 "100 Stat Man: Off"
- char_spawner.switch_m:0 "Gender: Male"
- char_spawner.switch_f:0 "Gender: Female"
- 
- char_spawner.diplo_councillor:0 "Chancellor"
- char_spawner.martial_councillor:0 "Marshal"
- char_spawner.steward_councillor:0 "Steward"
- char_spawner.intrigue_councillor:0 "Spymaster"
- char_spawner.learning_councillor:0 "Court Chaplain"
- 
- char_spawner.norm_heir:0 "Average"
- char_spawner.great_heir:0 "Extraordinary"
- char_spawner.shitty_heir:0 "Pathetic"
- 
- char_spawner.heir_age_0:0 "Child Age: 0"
- char_spawner.heir_age_3:0 "Child Age: 3"
- char_spawner.heir_age_6:0 "Child Age: 6"
- char_spawner.heir_age_9:0 "Child Age: 9"
- char_spawner.heir_age_12:0 "Child Age: 12"
- char_spawner.heir_age_15:0 "Child Age: 15"
- char_spawner.heir_age_18:0 "Child Age: 18"
- 
- char_spawner.m_vassal:0 "Male Vassal"
- char_spawner.f_vassal:0 "Female Vassal"
- char_spawner.m_dyn_vassal:0 "Male Vassal (Dynasty)"
- char_spawner.f_dyn_vassal:0 "Female Vassal (Dynasty)"
- 
- char_spawner.courtiers.m_courtier:0 "Normal Male Courtier"
- char_spawner.courtiers.f_courtier:0 "Normal Female Courtier"
-  char_spawner.courtiers.m_courtier_good:0 "Great Male Courtier"
- char_spawner.courtiers.f_courtier_good:0 "Great Female Courtier"
- 
- char_numb_1_TT:0 "One character will spawn with the current settings."
- char_numb_2_TT:0 "Two characters will spawn with the current settings."
- char_numb_5_TT:0 "Five characters will spawn with the current settings."
- char_numb_10_TT:0 "Ten characters will spawn with the current settings."
- 
- improved_stats_effect_TT:0 "Your Court Chaplain's stats will improve; this is due to limitations in the game."
+
+ char_spawner.add_immortal:0 "Unsterblichkeit: Ein"
+ char_spawner.remove_immortal:0 "Unsterblichkeit: Aus"
+ char_spawner.add_100_stat_man:0 "100 Stat Man: Ein"
+ char_spawner.remove_100_stat_man:0 "100 Stat Man: Aus"
+ char_spawner.switch_m:0 "Geschlecht: Männlich"
+ char_spawner.switch_f:0 "Geschlecht: Weiblich"
+
+ char_spawner.diplo_councillor:0 "Kanzler"
+ char_spawner.martial_councillor:0 "Marschall"
+ char_spawner.steward_councillor:0 "Gutsverwalter"
+ char_spawner.intrigue_councillor:0 "Spionagemeister"
+ char_spawner.learning_councillor:0 "Hofkaplan"
+
+ char_spawner.norm_heir:0 "Durchschnittlich"
+ char_spawner.great_heir:0 "Außergewöhnlich"
+ char_spawner.shitty_heir:0 "Minderwertig"
+
+ char_spawner.heir_age_0:0 "Kindesalter: 0"
+ char_spawner.heir_age_3:0 "Kindesalter: 3"
+ char_spawner.heir_age_6:0 "Kindesalter: 6"
+ char_spawner.heir_age_9:0 "Kindesalter: 9"
+ char_spawner.heir_age_12:0 "Kindesalter: 12"
+ char_spawner.heir_age_15:0 "Kindesalter: 15"
+ char_spawner.heir_age_18:0 "Kindesalter: 18"
+
+ char_spawner.m_vassal:0 "Männlicher Vasall"
+ char_spawner.f_vassal:0 "Weiblicher Vasall"
+ char_spawner.m_dyn_vassal:0 "Männlicher Vasall (Dynastie)"
+ char_spawner.f_dyn_vassal:0 "Weiblicher Vasall (Dynastie)"
+
+ char_spawner.courtiers.m_courtier:0 "Normaler männlicher Hofbeamter"
+ char_spawner.courtiers.f_courtier:0 "Normaler weiblicher Hofbeamter"
+ char_spawner.courtiers.m_courtier_good:0 "Großer männlicher Hofbeamter"
+ char_spawner.courtiers.f_courtier_good:0 "Großer weiblicher Hofbeamter"
+
+ char_numb_1_TT:0 "Ein Charakter wird mit den aktuellen Einstellungen spawnen."
+ char_numb_2_TT:0 "Zwei Charaktere werden mit den aktuellen Einstellungen spawnen."
+ char_numb_5_TT:0 "Fünf Charaktere werden mit den aktuellen Einstellungen spawnen."
+ char_numb_10_TT:0 "Zehn Charaktere werden mit den aktuellen Einstellungen spawnen."
+
+ improved_stats_effect_TT:0 "Die Attribute Ihres Hofkaplans werden verbessert; dies ist auf Einschränkungen im Spiel zurückzuführen."
