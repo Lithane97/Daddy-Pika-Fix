@@ -1,0 +1,15 @@
+﻿l_german:
+ daddy_pika_information:0 "Information Menu"
+ information_desc:0 "This shows general information like useful tips, finding features, and the changelog."
+ information_TT:0 "Click to see the details about this mod."
+ 
+ dp_information.changelog.t:0 "Changelogs"
+ dp_information.changelog.d:0 "1.3.4\n- Nothing to see here, just cleaning up."
+ dp_information.useful_tips.t:0 "Useful tips"
+ dp_information.useful_tips.d:0 "Trait Menus\n- Click once to add, and click again to remove.\n- When a trait doesn't show up, this doesn't mean the mod is broken, it means there is a conflicting trait.\n- Some interactions won't show up on certain characters, because of circumstance.\n- Spawning a bunch of children can be a major hassle, believe me.\n- There is an immortality trait which can be found in the trait section of the Character Editor, you can also look at Trait Presents."
+ dp_information.locations.t:0 "Find Features"
+ dp_information.locations.d:0 "\n- Character Spawner has moved to the new Character Spawner Menu.\n- Lifestyle points and Innovation have changed and are now found in the Presents Menu.\n- Gold can be found in the Currency Menu.\n- Culture innovations can be found in the Presents Menu within the Character Editor.\n- In the Character Spawn Menu, you can spawn councilors, courtiers, and children. Be careful though.\n- In the bottom of the interactions menu, there is a dynasty killer button. You can designate survivors, and finalize killing of an entire dynasty.."
+ 
+ use_new_system:0 "The New System"
+ use_new_system_desc:0 "The old system has been replaced with something new. Would you like to try it?"
+ use_new_system_tooltip:0 "Clicking this will open an event."

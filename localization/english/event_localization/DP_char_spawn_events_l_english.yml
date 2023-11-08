@@ -1,0 +1,63 @@
+﻿l_english:
+ 
+ char_spawner.t:1 "Character Spawn Menu"
+ char_spawner.d:0 "Spawn any character you need. At the top, you can select how many you want."
+ 
+ char_spawner.numb.t:1 "Num. of Characters"
+ char_spawner.numb.d:0 "Select the number of characters you would like to spawn in. Applies to everything in the menu, except councillors."
+ 
+ char_spawner.councillors.t:1 "Spawn Councillors"
+ char_spawner.councillors.d:0 "These councillors will spawn in it's corresponding position."
+ 
+ char_spawner.heirs.t:1 "Spawn Children"
+ char_spawner.heirs.d:0 "There are three different types of heirs you can create with this menu. Extraordinary; Average, and Pathetic. You can also pick the gender and the age of the child."
+ 
+ char_spawner.courtiers.t:1 "Spawn Courtiers"
+ char_spawner.courtiers.d:0 "Add new people to your court."
+ 
+ char_spawner.numb1:0 "1"
+ char_spawner.numb2:0 "2"
+ char_spawner.numb5:0 "5"
+ char_spawner.numb10:0 "10"
+ 
+ char_spawner.add_immortal:0 "Immortality: On"
+ char_spawner.remove_immortal:0 "Immortality: Off"
+ char_spawner.add_100_stat_man:0 "100 Stat Man: On"
+ char_spawner.remove_100_stat_man:0 "100 Stat Man: Off"
+ char_spawner.switch_m:0 "Gender: Male"
+ char_spawner.switch_f:0 "Gender: Female"
+ 
+ char_spawner.diplo_councillor:0 "Chancellor"
+ char_spawner.martial_councillor:0 "Marshal"
+ char_spawner.steward_councillor:0 "Steward"
+ char_spawner.intrigue_councillor:0 "Spymaster"
+ char_spawner.learning_councillor:0 "Court Chaplain"
+ 
+ char_spawner.norm_heir:0 "Average"
+ char_spawner.great_heir:0 "Extraordinary"
+ char_spawner.shitty_heir:0 "Pathetic"
+ 
+ char_spawner.heir_age_0:0 "Child Age: 0"
+ char_spawner.heir_age_3:0 "Child Age: 3"
+ char_spawner.heir_age_6:0 "Child Age: 6"
+ char_spawner.heir_age_9:0 "Child Age: 9"
+ char_spawner.heir_age_12:0 "Child Age: 12"
+ char_spawner.heir_age_15:0 "Child Age: 15"
+ char_spawner.heir_age_18:0 "Child Age: 18"
+ 
+ char_spawner.m_vassal:0 "Male Vassal"
+ char_spawner.f_vassal:0 "Female Vassal"
+ char_spawner.m_dyn_vassal:0 "Male Vassal (Dynasty)"
+ char_spawner.f_dyn_vassal:0 "Female Vassal (Dynasty)"
+ 
+ char_spawner.courtiers.m_courtier:0 "Normal Male Courtier"
+ char_spawner.courtiers.f_courtier:0 "Normal Female Courtier"
+  char_spawner.courtiers.m_courtier_good:0 "Great Male Courtier"
+ char_spawner.courtiers.f_courtier_good:0 "Great Female Courtier"
+ 
+ char_numb_1_TT:0 "One character will spawn with the current settings."
+ char_numb_2_TT:0 "Two characters will spawn with the current settings."
+ char_numb_5_TT:0 "Five characters will spawn with the current settings."
+ char_numb_10_TT:0 "Ten characters will spawn with the current settings."
+ 
+ improved_stats_effect_TT:0 "Your Court Chaplain's stats will improve; this is due to limitations in the game."

@@ -1,0 +1,63 @@
+﻿l_spanish:
+ 
+ char_spawner.t:1 "Menú de Invocación"
+ char_spawner.d:0 "Invoca a cualquier personaje que necesites. Arriba puedes seleccionar cuántos necesitas."
+ 
+ char_spawner.numb.t:1 "Núm. de Personajes"
+ char_spawner.numb.d:0 "Escoge el número de personajes que te gustaría invocar. Se aplica a todo, excepto consejeros."
+ 
+ char_spawner.councillors.t:1 "Invocar Consejeros"
+ char_spawner.councillors.d:0 "Estos consejeros apareceran en sus correspondientes puestos."
+ 
+ char_spawner.heirs.t:1 "Invocar Niños"
+ char_spawner.heirs.d:0 "Hay tres tipos de herederos que puedes crear con este menú. Extraordinarios; Normales, y Patéticos. También puedes escoger el sexo y la edad."
+ 
+ char_spawner.courtiers.t:1 "Invocar Cortesanos"
+ char_spawner.courtiers.d:0 "Añade gente a tu corte."
+ 
+ char_spawner.numb1:0 "1"
+ char_spawner.numb2:0 "2"
+ char_spawner.numb5:0 "5"
+ char_spawner.numb10:0 "10"
+ 
+ char_spawner.add_immortal:0 "Inmortalidad: Activa"
+ char_spawner.remove_immortal:0 "Inmortalidad: Desactivada"
+ char_spawner.add_100_stat_man:0 "El Macho 100: Activado"
+ char_spawner.remove_100_stat_man:0 "El Macho 100: Desactivado"
+ char_spawner.switch_m:0 "Sexo: Masculino"
+ char_spawner.switch_f:0 "Sexo: Femenino"
+ 
+ char_spawner.diplo_councillor:0 "Canciller"
+ char_spawner.martial_councillor:0 "Mariscal"
+ char_spawner.steward_councillor:0 "Administrador"
+ char_spawner.intrigue_councillor:0 "Jefe de Espías"
+ char_spawner.learning_councillor:0 "Obispo de la Corte"
+ 
+ char_spawner.norm_heir:0 "Normal"
+ char_spawner.great_heir:0 "Extraordinario"
+ char_spawner.shitty_heir:0 "Patético"
+ 
+ char_spawner.heir_age_0:0 "Edad: 0"
+ char_spawner.heir_age_3:0 "Edad: 3"
+ char_spawner.heir_age_6:0 "Edad: 6"
+ char_spawner.heir_age_9:0 "Edad: 9"
+ char_spawner.heir_age_12:0 "Edad: 12"
+ char_spawner.heir_age_15:0 "Edad: 15"
+ char_spawner.heir_age_18:0 "Edad: 18"
+ 
+ char_spawner.m_vassal:0 "Vasallo Masculino"
+ char_spawner.f_vassal:0 "Vasallo Femenino"
+ char_spawner.m_dyn_vassal:0 "Vasallo Masculino (Dinástico)"
+ char_spawner.f_dyn_vassal:0 "Vasallo Femenino (Dinástico)"
+ 
+ char_spawner.courtiers.m_courtier:0 "Cortesano Normal"
+ char_spawner.courtiers.f_courtier:0 "Cortesana Normal"
+ char_spawner.courtiers.m_courtier_good:0 "Gran Cortesano"
+ char_spawner.courtiers.f_courtier_good:0 "Gran Cortesana"
+ 
+ char_numb_1_TT:0 "Un personaje aparecerá con la configuración siguiente."
+ char_numb_2_TT:0 "Dos personajes aparecerán con la configuración siguiente."
+ char_numb_5_TT:0 "Cinco personajes aparecerán con la configuración siguiente."
+ char_numb_10_TT:0 "Diez personajes aparecerán con la configuración siguiente."
+ 
+ improved_stats_effect_TT:0 "Las estadísticas de tu Obispo mejorarán: esto se debe a limitaciones propias del juego."

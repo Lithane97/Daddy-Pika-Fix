@@ -1,0 +1,5 @@
+﻿l_english:
+### LITHANE Scripted Effects
+
+ LIT_learned_trait_check_max_TT:1 "This trait is already max level."
+ LIT_learned_trait_check_missing_TT:1 "The selected character doesn't have this trait."
