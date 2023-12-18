@@ -1,6 +1,7 @@
 ﻿l_simp_chinese:
  dp_char_interactions.main.event.t:0 "货币修改菜单"
  dp_char_interactions.main.event.d:0 "这个菜单将向你选择的角色来添加金钱，威望，虔诚以及宗族威望"
+
  dp_char_interactions.gold.event.t:1 "@gold_icon! $GOLD_CONCEPT$"
  dp_char_interactions.gold.event.d:0 "$interact_desc$"
  dp_char_interactions.prestige.event.t:1 "@prestige_icon! $PRESTIGE_CONCEPT$"
@@ -18,10 +19,12 @@
  dp_char_interactions.weight.event.t:1 "@weight_icon! #E 体重 #!"
  dp_char_interactions.weight.event.d:0 "$interact_desc$"
  interact_desc:0 "添加或删除任何值"
+
  dp_char_interactions.lockinplace:0 "锁定属性"
  no_stress_change:0 "压力: 锁定"
  no_tyranny_change:0 "暴政: 锁定"
  no_dread_change:0 "权重: 锁定"
+ 
  dp_char_interactions.plus_10000:0 "#P 10,000 #!"
  dp_char_interactions.plus_1000:0 "#P 1,000 #!"
  dp_char_interactions.plus_100:0 "#P 100 #!"
@@ -32,6 +35,7 @@
  dp_char_interactions.minus_100:0 "#N 100 #!"
  dp_char_interactions.minus_1000:0 "#N 1,000 #!"
  dp_char_interactions.minus_10000:0 "#N 10,000 #!"
+ 
  dp_char_interactions.gold.plus_10000:0 "[gold_i] $dp_char_interactions.plus_10000$"
  dp_char_interactions.gold.plus_1000:0 "[gold_i] $dp_char_interactions.plus_1000$"
  dp_char_interactions.gold.plus_100:0 "[gold_i] $dp_char_interactions.plus_100$"
@@ -42,6 +46,7 @@
  dp_char_interactions.gold.minus_100:0 "[gold_i] $dp_char_interactions.minus_100$"
  dp_char_interactions.gold.minus_1000:0 "[gold_i] $dp_char_interactions.minus_1000$"
  dp_char_interactions.gold.minus_10000:0 "[gold_i] $dp_char_interactions.minus_10000$"
+ 
  dp_char_interactions.prestige.plus_10000:0 "[prestige_i] $dp_char_interactions.plus_10000$"
  dp_char_interactions.prestige.plus_1000:0 "[prestige_i] $dp_char_interactions.plus_1000$"
  dp_char_interactions.prestige.plus_100:0 "[prestige_i] $dp_char_interactions.plus_100$"
@@ -52,6 +57,7 @@
  dp_char_interactions.prestige.minus_100:0 "[prestige_i] $dp_char_interactions.minus_100$"
  dp_char_interactions.prestige.minus_1000:0 "[prestige_i] $dp_char_interactions.minus_1000$"
  dp_char_interactions.prestige.minus_10000:0 "[prestige_i] $dp_char_interactions.minus_10000$"
+ 
  dp_char_interactions.piety.plus_10000:0 "[piety_i] $dp_char_interactions.plus_10000$"
  dp_char_interactions.piety.plus_1000:0 "[piety_i] $dp_char_interactions.plus_1000$"
  dp_char_interactions.piety.plus_100:0 "[piety_i] $dp_char_interactions.plus_100$"
@@ -62,6 +68,7 @@
  dp_char_interactions.piety.minus_100:0 "[piety_i] $dp_char_interactions.minus_100$"
  dp_char_interactions.piety.minus_1000:0 "[piety_i] $dp_char_interactions.minus_1000$"
  dp_char_interactions.piety.minus_10000:0 "[piety_i] $dp_char_interactions.minus_10000$"
+ 
  dp_char_interactions.dynasty_prestige.plus_10000:0 "[dynasty_prestige_i] $dp_char_interactions.plus_10000$"
  dp_char_interactions.dynasty_prestige.plus_1000:0 "[dynasty_prestige_i] $dp_char_interactions.plus_1000$"
  dp_char_interactions.dynasty_prestige.plus_100:0 "[dynasty_prestige_i] $dp_char_interactions.plus_100$"
@@ -72,4 +79,5 @@
  dp_char_interactions.dynasty_prestige.minus_100:0 "[dynasty_prestige_i] $dp_char_interactions.minus_100$"
  dp_char_interactions.dynasty_prestige.minus_1000:0 "[dynasty_prestige_i] $dp_char_interactions.minus_1000$"
  dp_char_interactions.dynasty_prestige.minus_10000:0 "[dynasty_prestige_i] $dp_char_interactions.minus_10000$"
+
  dp_char_interactions.end:0 "关闭菜单"

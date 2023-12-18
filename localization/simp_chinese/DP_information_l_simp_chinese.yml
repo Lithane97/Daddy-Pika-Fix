@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
- daddy_pika_information:0 "Information Menu"
- information_desc:0 "This shows general information like useful tips, finding features, and the changelog."
- information_TT:0 "Click to see the details about this mod."
+ daddy_pika_information:0 "信息菜单"
+ information_desc:0 "这里显示有用提示、查找功能和更新日志等一般信息。"
+ information_TT:0 "点击查看此模组的详细信息。"
  
  dp_information.changelog.t:0 "Changelogs"
  dp_information.changelog.d:0 "1.3.4\n- Nothing to see here, just cleaning up."
