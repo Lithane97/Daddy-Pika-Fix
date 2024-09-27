@@ -268,7 +268,7 @@ daddy_pika_change_dynasty = {
 }
 
 daddy_pika_char_modify_vassal_contract_inter = {
-	special_interaction = modify_vassal_contract
+	special_interaction = liege_modify_vassal_contract
 	interface = modify_vassal_contract
 	category = interaction_category_cheat_menu
 	common_interaction = yes
@@ -326,7 +326,7 @@ daddy_pika_char_modify_vassal_contract_inter = {
 }
 
 daddy_pika_vassal_mod_vassal_contract_inter = {
-	special_interaction = modify_vassal_contract
+	special_interaction = liege_modify_vassal_contract
 	interface = modify_vassal_contract
 	category = interaction_category_cheat_menu
 	common_interaction = yes
