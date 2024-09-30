@@ -1,12 +1,16 @@
 ﻿open_daddypika_menu = {
-    picture = gfx/interface/illustrations/decisions/open_tab.dds
+    picture = {
+        reference = "gfx/interface/illustrations/decisions/open_tab.dds"
+    }
 
     desc = open_daddypika_menu_desc
     selection_tooltip = open_daddypika_menu_desc
     confirm_text = CONFIRM_OKAY
 
+    decision_group_type = debug
+
     is_shown = {
-	    NOT = { has_character_flag = daddy_pika_cheat_menu }
+        NOT = { has_character_flag = daddy_pika_cheat_menu }
     }
 
     effect = {
@@ -14,8 +18,8 @@
             flag = daddy_pika_cheat_menu
         }
     }
-	ai_check_interval = 0
-	
+    ai_check_interval = 0
+
     ai_will_do = 0
 }
 
@@ -43,16 +47,20 @@
 # }
 
 open_government_menu = {
-    picture = gfx/interface/illustrations/decisions/open_tab.dds
+    picture = {
+        reference = "gfx/interface/illustrations/decisions/open_tab.dds"
+    }
 
-	title = title_government_menu
+    title = title_government_menu
     desc = open_daddypika_menu_desc
     selection_tooltip = open_daddypika_menu_desc
     confirm_text = CONFIRM_OKAY
 
+    decision_group_type = debug
+
     is_shown = {
-	   has_character_flag = daddy_pika_cheat_menu
-	   NOT = { has_character_flag = govt_menu }
+        has_character_flag = daddy_pika_cheat_menu
+        NOT = { has_character_flag = govt_menu }
     }
 
     effect = {
@@ -60,7 +68,7 @@ open_government_menu = {
             flag = govt_menu
         }
     }
-	ai_check_interval = 0
+    ai_check_interval = 0
 
     ai_will_do = 0
 }
